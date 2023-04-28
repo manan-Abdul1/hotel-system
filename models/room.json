@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Deluxe Double Room",
+        "maxCount": 2,
+        "phoneNumber": 1234567890,
+        "rentPerDay": 2000,
+        "type": "Deluxe",
+        "imagesUrl": ["https://example.com/image1.jpg", "https://example.com/image2.jpg"],
+        "currentBookings": [],
+        "description": "This is a spacious and luxurious room with a king-sized bed and modern amenities."
+    },
+    {
+        "name": "Standard Single Room",
+        "maxCount": 1,
+        "phoneNumber": 9876543210,
+        "rentPerDay": 1000,
+        "type": "Standard",
+        "imagesUrl": ["https://example.com/image3.jpg"],
+        "currentBookings": [],
+        "description": "This is a cozy and comfortable room perfect for solo travelers with all the basic amenities."
+    },
+    {
+        "name": "Executive Suite",
+        "maxCount": 4,
+        "phoneNumber": 4567890123,
+        "rentPerDay": 4000,
+        "type": "Suite",
+        "imagesUrl": ["https://example.com/image4.jpg", "https://example.com/image5.jpg", "https://example.com/image6.jpg"],
+        "currentBookings": [],
+        "description": "This is a luxurious and spacious suite with separate living and sleeping areas and all modern amenities."
+    },
+    {
+        "name": "Family Room",
+        "maxCount": 6,
+        "phoneNumber": 7890123456,
+        "rentPerDay": 5000,
+        "type": "Deluxe",
+        "imagesUrl": ["https://example.com/image7.jpg", "https://example.com/image8.jpg", "https://example.com/image9.jpg"],
+        "currentBookings": [],
+        "description": "This is a large and comfortable room ideal for families with all the necessary amenities."
+    },
+    {
+        "name": "Honeymoon Suite",
+        "maxCount": 2,
+        "phoneNumber": 2345678901,
+        "rentPerDay": 6000,
+        "type": "Suite",
+        "imagesUrl": ["https://example.com/image10.jpg"],
+        "currentBookings": [],
+        "description": "This is a romantic and luxurious suite with a private balcony and all modern amenities for a perfect honeymoon."
+    } 
+]
